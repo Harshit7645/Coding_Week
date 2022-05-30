@@ -1,6 +1,6 @@
-#HEADING
+# HEADING
 
-##SUBHEADING
+## SUBHEADING
 
-###another heading but smaller
+### another heading but smaller
 
