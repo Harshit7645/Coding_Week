@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh Pakhariya</h1>
 <h3 align="center">I am in CSE branch at IIT Guwahati. Roll No:-210101048.I am interested in coding from my high school classes. That's a major reason I chose CSE over other branches.</h3>
+<br/>
 
+Contributing to open source provides developers with a platform to not only practice their coding skills but also gain valuable feedback from seasoned community members. This immersive learning style provides aspiring programmers with real-life, first-hand experience and greatly accelerates the learning curve.
 - 🌱 I’m currently learning **C,C++ and Java**
 
 - 📫 How to reach me **p.harshit@iitg.ac.in**
